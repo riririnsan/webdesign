@@ -17,24 +17,24 @@ h1,h2,h3,h4,p,ul,li{
     margin:0 auto;
 }
 /* ヘッダー　CSS　*/
-header {
+header{
     color:brown;
     background-color:bisque;
     overflow:hidden;
 }
-#logo {
-    display: block;
+#logo{
+    display:block;
     margin-left:10px;
     margin-bottom:10px;
     float:left;
 }
-#head_meg {
+#head_meg{
     margin-top:20px;
     margin-left:70px;
     float:left;
 }
-h1 {
-    font-size: 28px;
+h1{
+    font-size:28px;
     color:crimson;
 }
 /* ナビゲーション css */
@@ -62,7 +62,7 @@ nav a:hover{
     background-image:url(images/silvar.png);
 }
 /* メインコンテンツ　CSS　*/
-main {
+main{
     padding-top:20px;
     padding-left:20px;
     padding-bottom:20px;
@@ -79,7 +79,7 @@ h2{
     color:darkred;
     background-image:url(images/silver-h2.png);
 }
-h3 {
+h3{
     width:220px;
     height:70px;
     margin-top:20px;
@@ -94,10 +94,10 @@ h3 {
 .margin_p{
     margin-top:45px;
     margin-left:20px;
-    color: brown;
+    color:brown;
     float:left;
 }
-#picup_img {
+#picup_img{
     clear:both;
     margin-right:20px;
     float:left;
@@ -111,7 +111,7 @@ h3 {
     background-color:burlywood;
     float:left;
 }
-h4 {
+h4{
     width:200px;
     height:60px;
     margin-bottom:10px;
@@ -122,8 +122,8 @@ h4 {
     border-radius:10px;
     background-image:url(images/goldpanel.png);
 }
-#classic {clear:both;}
-.sweets {
+#classic{clear:both;}
+.sweets{
     width:280px;
     padding:10px;
     margin-right:20px;
@@ -145,11 +145,11 @@ table {
     margin-bottom:20px;
     border-collapse:collapse;
 }
-th,td {
+th,td{
     border:1px solid #333333;
     padding:5px;
 }
-th {
+th{
     width:200px;
     background-color:firebrick;
     color:white;
