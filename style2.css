@@ -6,3 +6,13 @@ body{
   background-image:url(images/gold_back.jpg);
   background-repeat:repeat-y;
 }
+/* リセット CSS */
+h1,h2,h3,h4,p,ul,li{
+ margin:0;
+ padding:0;
+}
+/* ヘッダー CSS */
+header{
+ width:980px;
+ color:brown;
+ background-color
